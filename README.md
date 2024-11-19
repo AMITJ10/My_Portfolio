@@ -18,7 +18,7 @@ This repository contains the code for my personal portfolio website, showcasing 
 
 ## Deployment
 
-The website is deployed and accessible at: [[ Website Link](https://amitj10.github.io/My_Portfolio/)](#).  
+The website is deployed and accessible at: [[Live Demo](https://amitj10.github.io/My_Portfolio/)].  
 You can clone this repository and view it locally by opening `index.html` in a browser.
 
 ### Steps to Clone and Run Locally:
